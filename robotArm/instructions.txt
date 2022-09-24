@@ -1,0 +1,15 @@
+{"cmd":"lmove", "x":1, "y":2, "z":100,  "rel":0, "vel":100}
+{"cmd":"lmove", "z":10, "rel":0, "vel":100}
+{"cmd":"lmove", "z":10, "rel":0, "vel":100}
+{"cmd":"lmove", "x":1, "y":2, "z":100,  "rel":0, "vel":100}
+{"cmd":"lmove", "z":10, "rel":0, "vel":100}
+{"cmd":"lmove", "z":10, "rel":0, "vel":100}
+{"cmd":"lmove", "x":1, "y":2, "z":100,  "rel":0, "vel":100}
+{"cmd":"lmove", "z":10, "rel":0, "vel":100}
+{"cmd":"lmove", "z":10, "rel":0, "vel":100}
+{"cmd":"lmove", "x":1, "y":2, "z":100,  "rel":0, "vel":100}
+{"cmd":"lmove", "z":10, "rel":0, "vel":100}
+{"cmd":"lmove", "z":10, "rel":0, "vel":100}
+{"cmd":"lmove", "x":1, "y":2, "z":100,  "rel":0, "vel":100}
+{"cmd":"lmove", "z":10, "rel":0, "vel":100}
+{"cmd":"lmove", "z":10, "rel":0, "vel":100}
