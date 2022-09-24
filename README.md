@@ -1,4 +1,4 @@
-# UMN_Pick_and_place_machine
+# UMN-pick-and-place-machine
 
 ### Big parts of the software:
 1. Read centroid file to figure out part destinations (Anthony)
